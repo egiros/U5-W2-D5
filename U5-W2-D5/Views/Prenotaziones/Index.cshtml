@@ -1,0 +1,96 @@
+﻿@model IEnumerable<U5_W2_D5.Models.Prenotazione>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="text-center">Gestione Prenotazioni</h1>
+
+<form asp-controller="Prenotaziones" asp-action="SearchByCodiceFiscale" method="get" class="my-5">
+    <div class="form-group">
+        <input type="text" class="form-control" id="codiceFiscale" name="codiceFiscale" placeholder="Inserisci Codice Fiscale">
+    </div>
+        <button type="submit" class="btn btn-primary ms-2 my-2 me-5">Cerca Per Codice Fiscale</button>
+        <a asp-controller="Prenotaziones" asp-action="PensioneCompleta" method="get" type="submit"
+           class="btn btn-warning bg-gradient my-3">
+            Mostra Totali per Pensione Completa
+        </a>
+   
+</form>
+
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DataPrenotazione)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataInizioSoggiorno)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataFineSoggiorno)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Anno)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Acconto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Prezzo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cliente)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Camera)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pensione)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataPrenotazione)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataInizioSoggiorno)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataFineSoggiorno)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Anno)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Acconto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Prezzo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cliente.Cognome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Camera.ID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pensione.Tipologia)
+            </td>
+            <td>
+                    <a asp-action="Edit" asp-route-id="@item.ID" class="btn btn-warning m-1">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.ID" class="btn btn-warning m-1">Details</a>
+                    <br/>
+                    <a asp-action="Delete" asp-route-id="@item.ID" class="btn btn-danger m-1">Delete</a> | 
+                    <a asp-action="Checkout" asp-route-id="@item.ID" class="btn btn-dark m-1">Checkout</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<a asp-action="Create" class="btn btn-warning">Crea Nuova Prenotazione</a>
