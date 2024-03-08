@@ -8181,11 +8181,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\egidio\\Desktop\\U5-W2-D5\\U5-W2-D5\\U5-W2-D5.csproj",
+      "projectUniqueName": "C:\\Users\\egidio\\Desktop\\GitHub\\U5-W2-D5\\U5-W2-D5\\U5-W2-D5.csproj",
       "projectName": "U5-W2-D5",
-      "projectPath": "C:\\Users\\egidio\\Desktop\\U5-W2-D5\\U5-W2-D5\\U5-W2-D5.csproj",
+      "projectPath": "C:\\Users\\egidio\\Desktop\\GitHub\\U5-W2-D5\\U5-W2-D5\\U5-W2-D5.csproj",
       "packagesPath": "C:\\Users\\egidio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\egidio\\Desktop\\U5-W2-D5\\U5-W2-D5\\obj\\",
+      "outputPath": "C:\\Users\\egidio\\Desktop\\GitHub\\U5-W2-D5\\U5-W2-D5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\egidio\\AppData\\Roaming\\NuGet\\NuGet.Config",

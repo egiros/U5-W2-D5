@@ -19,9 +19,14 @@ html {
 
 body {
   margin-bottom: 60px;
-  background-color:antiquewhite
+  background-color:antiquewhite;
 }
 
-.login{
+.login {
     background-image: url(../img/1.jpg);
+    opacity: 85%;
+}
+.login2 {
+    background-color: antiquewhite;
+    
 }

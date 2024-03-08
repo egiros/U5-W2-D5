@@ -17,175 +17,175 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = U5_W2_D5
 build_property.RootNamespace = U5_W2_D5
-build_property.ProjectDir = C:\Users\egidio\Desktop\U5-W2-D5\U5-W2-D5\
+build_property.ProjectDir = C:\Users\egidio\Desktop\GitHub\U5-W2-D5\U5-W2-D5\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\egidio\Desktop\U5-W2-D5\U5-W2-D5
+build_property.MSBuildProjectDirectory = C:\Users\egidio\Desktop\GitHub\U5-W2-D5\U5-W2-D5
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Cameras/Create.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Cameras/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtZXJhc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Cameras/Delete.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Cameras/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtZXJhc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Cameras/Details.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Cameras/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtZXJhc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Cameras/Edit.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Cameras/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtZXJhc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Cameras/Index.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Cameras/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtZXJhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Clientis/Create.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Clientis/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50aXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Clientis/Delete.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Clientis/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50aXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Clientis/Details.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Clientis/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50aXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Clientis/Edit.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Clientis/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50aXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Clientis/Index.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Clientis/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50aXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Home/Index.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Home/Privacy.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Logins/Create.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Logins/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Logins/Delete.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Logins/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Logins/Details.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Logins/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Logins/Edit.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Logins/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Logins/Index.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Logins/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Logins/Login.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Logins/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5zXExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Pensiones/Create.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Pensiones/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVuc2lvbmVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Pensiones/Delete.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Pensiones/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVuc2lvbmVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Pensiones/Details.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Pensiones/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVuc2lvbmVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Pensiones/Edit.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Pensiones/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVuc2lvbmVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Pensiones/Index.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Pensiones/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVuc2lvbmVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Prenotaziones/Checkout.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Prenotaziones/Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlbm90YXppb25lc1xDaGVja291dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Prenotaziones/Create.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Prenotaziones/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlbm90YXppb25lc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Prenotaziones/Delete.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Prenotaziones/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlbm90YXppb25lc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Prenotaziones/Details.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Prenotaziones/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlbm90YXppb25lc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Prenotaziones/Edit.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Prenotaziones/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlbm90YXppb25lc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Prenotaziones/Index.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Prenotaziones/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlbm90YXppb25lc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Prenotaziones/PensioneCompleta.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Prenotaziones/PensioneCompleta.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlbm90YXppb25lc1xQZW5zaW9uZUNvbXBsZXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Prenotaziones/SearchByCodiceFiscale.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Prenotaziones/SearchByCodiceFiscale.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlbm90YXppb25lc1xTZWFyY2hCeUNvZGljZUZpc2NhbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Servizis/Create.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Servizis/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vydml6aXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Servizis/Delete.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Servizis/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vydml6aXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Servizis/Details.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Servizis/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vydml6aXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Servizis/Edit.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Servizis/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vydml6aXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Servizis/Index.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Servizis/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vydml6aXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Shared/Error.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/_ViewImports.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/_ViewStart.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/egidio/Desktop/U5-W2-D5/U5-W2-D5/Views/Shared/_Layout.cshtml]
+[C:/Users/egidio/Desktop/GitHub/U5-W2-D5/U5-W2-D5/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-zmsi6sd3at

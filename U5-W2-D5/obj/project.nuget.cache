@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XBeOsw4ru8fNyJJ0b2TeijwNN4/N0DUCQ8tzg/N4E+8QPPN9pKEiBqK9eXyltX6bt24XuTo/4W5K+EECbfAqyQ==",
+  "dgSpecHash": "72gkq47PZUxT6PvCEDXJPvOX9hVJxnTgLwtzxliyf16EVcW8VJUS4l9MeInoNg6BndLT9+9c4WZ8J5XJbMZs2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\egidio\\Desktop\\U5-W2-D5\\U5-W2-D5\\U5-W2-D5.csproj",
+  "projectFilePath": "C:\\Users\\egidio\\Desktop\\GitHub\\U5-W2-D5\\U5-W2-D5\\U5-W2-D5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\egidio\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\egidio\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
